@@ -14,7 +14,7 @@
     <img src="https://github.com/vikussssssya/llaba2/blob/main/2.1.png" width="200"> 
     <img src="https://github.com/vikussssssya/llaba2/blob/main/2.2.png" width="200">
     <img src="https://github.com/vikussssssya/llaba2/blob/main/2.3.png" width="200"> 
-    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.5.png" width="200">
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.4.png" width="200">
 </p> 
 Возврат на предыдущий экран осуществляется при помощи кнопки "назад" или системной кнопки / бэксвайпа
 
@@ -38,7 +38,7 @@
   - 1 занимает половину всей ширины экрана
   - 2 делят оставшуюся часть поровну между собой
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/39384a63-f736-4fe1-a339-c85f2c3fa976" width="200">
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.2.png" width="200">
 </p> 
 
 ---
@@ -52,7 +52,7 @@
 - 1 расположена в нижней части экрана
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/2f8970d5-bdad-40bd-9d4f-abfdbeec8069" width="200"> 
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.3.png" width="200"> 
 </p> 
 
  ---
@@ -63,6 +63,6 @@
 - имеет фиолетовый цвет
 - при нажатии на кнопку ее цвет изменяется на красный.
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/805b2c82-c7ed-4a65-ba4f-2ff94b8b8594" width="200">
-    <img src="https://github.com/user-attachments/assets/e2a0bdd8-fcb0-4c04-a111-5b396ec15dd2" width="200"> 
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.4.png" width="200">
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.5.png" width="200"> 
 </p> 
