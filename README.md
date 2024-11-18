@@ -11,10 +11,10 @@
 4. [Экран 4](#activity4)
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/461d63d8-0afa-44f6-b38d-095549ea34dc" width="200"> 
-    <img src="https://github.com/user-attachments/assets/39384a63-f736-4fe1-a339-c85f2c3fa976" width="200">
-    <img src="https://github.com/user-attachments/assets/2f8970d5-bdad-40bd-9d4f-abfdbeec8069" width="200"> 
-    <img src="https://github.com/user-attachments/assets/805b2c82-c7ed-4a65-ba4f-2ff94b8b8594" width="200">
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.1.png" width="200"> 
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.2.png" width="200">
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.3.png" width="200"> 
+    <img src="https://github.com/vikussssssya/llaba2/blob/main/2.5.png" width="200">
 </p> 
 Возврат на предыдущий экран осуществляется при помощи кнопки "назад" или системной кнопки / бэксвайпа
 
